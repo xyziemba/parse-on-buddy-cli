@@ -19,7 +19,8 @@
     "read-chunk": "2.0.0",
     "request": "2.78.0",
     "validator": "6.1.0",
-    "walk": "2.3.9"
+    "walk": "2.3.9",
+    "yazl": "^2.4.2"
   },
   "scripts": {
     "lint": "eslint index.js lib/cli.js",
